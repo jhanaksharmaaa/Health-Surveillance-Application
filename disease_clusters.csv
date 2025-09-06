@@ -1,0 +1,61 @@
+state,city,disease,cases,latitude,longitude,cluster
+Delhi,Delhi,Typhoid,29,28.61,77.2,2
+Delhi,Delhi,Malaria,140,28.61,77.2,2
+Delhi,Delhi,Dengue,146,28.61,77.2,2
+Delhi,Delhi,Migraine,69,28.61,77.2,2
+Maharashtra,Mumbai,Typhoid,38,19.07,72.87,1
+Maharashtra,Mumbai,Malaria,123,19.07,72.87,3
+Maharashtra,Mumbai,Dengue,135,19.07,72.87,3
+Maharashtra,Mumbai,Migraine,145,19.07,72.87,3
+West Bengal,Kolkata,Typhoid,184,22.57,88.36,0
+West Bengal,Kolkata,Malaria,77,22.57,88.36,0
+West Bengal,Kolkata,Dengue,112,22.57,88.36,0
+West Bengal,Kolkata,Migraine,183,22.57,88.36,0
+Tamil Nadu,Chennai,Typhoid,95,13.08,80.27,1
+Tamil Nadu,Chennai,Malaria,123,13.08,80.27,3
+Tamil Nadu,Chennai,Dengue,189,13.08,80.27,3
+Tamil Nadu,Chennai,Migraine,134,13.08,80.27,3
+Gujarat,Ahmedabad,Typhoid,188,23.03,72.58,3
+Gujarat,Ahmedabad,Malaria,180,23.03,72.58,3
+Gujarat,Ahmedabad,Dengue,38,23.03,72.58,1
+Gujarat,Ahmedabad,Migraine,83,23.03,72.58,2
+Karnataka,Bengaluru,Typhoid,174,12.97,77.59,3
+Karnataka,Bengaluru,Malaria,45,12.97,77.59,1
+Karnataka,Bengaluru,Dengue,25,12.97,77.59,1
+Karnataka,Bengaluru,Migraine,64,12.97,77.59,1
+Telangana,Hyderabad,Typhoid,121,17.38,78.48,3
+Telangana,Hyderabad,Malaria,43,17.38,78.48,1
+Telangana,Hyderabad,Dengue,118,17.38,78.48,3
+Telangana,Hyderabad,Migraine,138,17.38,78.48,3
+Rajasthan,Jaipur,Typhoid,156,26.91,75.79,2
+Rajasthan,Jaipur,Malaria,195,26.91,75.79,2
+Rajasthan,Jaipur,Dengue,130,26.91,75.79,2
+Rajasthan,Jaipur,Migraine,43,26.91,75.79,2
+Uttar Pradesh,Lucknow,Typhoid,123,26.85,80.95,2
+Uttar Pradesh,Lucknow,Malaria,127,26.85,80.95,2
+Uttar Pradesh,Lucknow,Dengue,72,26.85,80.95,2
+Uttar Pradesh,Lucknow,Migraine,78,26.85,80.95,2
+Madhya Pradesh,Bhopal,Typhoid,111,23.25,77.41,2
+Madhya Pradesh,Bhopal,Malaria,105,23.25,77.41,2
+Madhya Pradesh,Bhopal,Dengue,183,23.25,77.41,3
+Madhya Pradesh,Bhopal,Migraine,47,23.25,77.41,1
+Chhattisgarh,Raipur,Typhoid,84,21.25,81.63,0
+Chhattisgarh,Raipur,Malaria,149,21.25,81.63,3
+Chhattisgarh,Raipur,Dengue,43,21.25,81.63,1
+Chhattisgarh,Raipur,Migraine,92,21.25,81.63,0
+Odisha,Bhubaneswar,Typhoid,50,20.3,85.82,0
+Odisha,Bhubaneswar,Malaria,142,20.3,85.82,0
+Odisha,Bhubaneswar,Dengue,128,20.3,85.82,0
+Odisha,Bhubaneswar,Migraine,137,20.3,85.82,0
+Punjab,Amritsar,Typhoid,121,31.63,74.87,2
+Punjab,Amritsar,Malaria,85,31.63,74.87,2
+Punjab,Amritsar,Dengue,97,31.63,74.87,2
+Punjab,Amritsar,Migraine,156,31.63,74.87,2
+Bihar,Patna,Typhoid,168,25.59,85.13,0
+Bihar,Patna,Malaria,133,25.59,85.13,0
+Bihar,Patna,Dengue,38,25.59,85.13,0
+Bihar,Patna,Migraine,43,25.59,85.13,0
+Assam,Guwahati,Typhoid,71,26.14,91.73,0
+Assam,Guwahati,Malaria,36,26.14,91.73,0
+Assam,Guwahati,Dengue,88,26.14,91.73,0
+Assam,Guwahati,Migraine,155,26.14,91.73,0
